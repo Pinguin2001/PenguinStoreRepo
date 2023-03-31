@@ -1,0 +1,23 @@
+[
+{"app":"CMD Injector","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/CMDInjector/appicon.png"},
+{"app":"Command Prompt","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/CommandPrompt/appicon.png"},
+{"app":"FSAM","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/FSAM/appicon.png"},
+{"app":"HiddenLaunch","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/HiddenLaunch/appicon.png"},
+{"app":"InteropTools","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/InteropTools/appicon.png"},
+{"app":"IUWP","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/IUWP/appicon.png"},
+{"app":"NotepadX","icon":"https://store-images.s-microsoft.com/image/apps.23977.13510798886759074.97974be9-6edb-42ef-9a7d-df723c456254.feb2bec0-621f-4638-840f-cfb7c51f2a06"},
+{"app":"MJPEGStreamer","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/MJPEGStreamer/appicon.png"},
+{"app":"MJPEGViewer","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/MJPEGViewer/appicon.png"},
+{"app":"OTP","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/OTP/appicon.png"},
+{"app":"PenguinColorPicker","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/PenguinColorPicker/appicon.png"},
+{"app":"PenguinToDo","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/PenguinToDo/appicon.png"},
+{"app":"RunBox","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/RunBox/appicon.png"},
+{"app":"TerminalUWP","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/TerminalUWP/appicon.png"},
+{"app":"Textie Editor","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/TextieEditor/appicon.png"},
+{"app":"Universal Markup Editor","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/UniversalMarkupEditor/appicon.png"},
+{"app":"UWPAppLauncherMobile","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/UWPAppLauncherMobile/appicon.png"},
+{"app":"UWPPackageInstaller","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/UWPPackageInstaller/appicon.png"},
+{"app":"WinverUWP","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/WinverUWP/appicon.png"},
+{"app":"WPDevPortal", "icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/WPDevPortal/appicon.png"},
+{"app":"WUT","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/WUT/appicon.png"}
+]
