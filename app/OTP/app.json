@@ -1,0 +1,7 @@
+{
+    "name": "OTP Manager",
+    "dev": "Alberto Fustinoni",
+    "version": "1.4.6",
+    "downloadurl": "https://www.dropbox.com/s/qfew33iim1amw4q/OTPManager.UWP_1.4.6.0_ARM.appx?dl=1",
+    "description": "Generates 2-step verification codes for Microsoft, Google, GitHub and more"
+}

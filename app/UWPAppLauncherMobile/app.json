@@ -1,0 +1,8 @@
+{
+    "name": "AppLauncher",
+    "dev": "IsaacMorris1980",
+    "version": "1.2.5",
+    "downloadurl": "https://github.com/IsaacMorris1980/UWP-App-Launcher-Mobile/releases/download/1.2.5/appLauncher_1.2.5.0.zip",
+    "description": "The whole point of this project is to provide the best traditional home screen experience as possible for Windows 10 devices.",
+    "sourcecode": "https://github.com/IsaacMorris1980/UWP-App-Launcher-Mobile"
+}

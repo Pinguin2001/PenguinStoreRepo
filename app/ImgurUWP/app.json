@@ -1,0 +1,7 @@
+{
+    "name": "ImgurUWP",
+    "dev": "Marcos",
+    "version": "1.9.224",
+    "downloadurl": "https://www.dropbox.com/s/7wde3wv60nnh06n/Imgur.UWP_1.9.224.0_arm_Debug.appxbundle?dl=1",
+    "description": "A unoffical client for Imgur.\nKnown Issues\n- If a media is played through the STMC ( System Media Transport Controls) in a page with multiple medias the App will crash\n- Go-back using the Navigation Bar can result in a erratic behavior after app suspended (Close Popup shows even if its not the first page)."
+}

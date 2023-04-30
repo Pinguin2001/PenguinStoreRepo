@@ -1,0 +1,8 @@
+{
+    "name": "ScummVM",
+    "dev": "Lybr4 and Bashar Astifan",
+    "version": "1.8.55",
+    "downloadurl": "https://github.com/basharast/ScummVM-UWP/releases/download/1.8.55/ScummVM.7z",
+    "description": "ScummVM UWP port with few improvements for stability",
+    "sourcecode": "https://github.com/basharast/ScummVM-UWP"
+}

@@ -1,4 +1,10 @@
 [
-{"app":"Newsflow","icon":"https://store-images.s-microsoft.com/image/apps.60618.13510798886917850.3ddd7f79-5313-4e10-ae9a-ada5ebbd3e34.c1589b36-325d-4d34-b864-4f6f1de4c269"},
-{"app":"RssReader","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/RssReader/appicon.png"}
+    {
+        "app": "Newsflow",
+        "icon": "https://store-images.s-microsoft.com/image/apps.60618.13510798886917850.3ddd7f79-5313-4e10-ae9a-ada5ebbd3e34.c1589b36-325d-4d34-b864-4f6f1de4c269"
+    },
+    {
+        "app": "RssReader",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/RssReader/appicon.png"
+    }
 ]

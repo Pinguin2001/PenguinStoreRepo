@@ -1,6 +1,18 @@
 [
-{"app":"DuckDuckGo","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/DuckDuckGo/appicon.png"},
-{"app":"Onitor","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/Onitor/appicon.png"},
-{"app":"PenguinAIChat","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/PenguinAIChat/appicon.png"},
-{"app":"QuickSearch","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/QuickSearch/appicon.png"}
+    {
+        "app": "DuckDuckGo",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/DuckDuckGo/appicon.png"
+    },
+    {
+        "app": "Onitor",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/Onitor/appicon.png"
+    },
+    {
+        "app": "PenguinAIChat",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/PenguinAIChat/appicon.png"
+    },
+    {
+        "app": "QuickSearch",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/QuickSearch/appicon.png"
+    }
 ]

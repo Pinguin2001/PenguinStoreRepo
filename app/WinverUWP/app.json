@@ -1,0 +1,8 @@
+{
+    "name": "WinverUWP",
+    "dev": "dongle-the-gadget",
+    "version": "2.0.3",
+    "downloadurl": "https://github.com/dongle-the-gadget/WinverUWP/releases/download/v2.0.3.0/WinverUWP-2.0.3-arm32.appx",
+    "description": "A UWP version of winver",
+    "sourcecode": "https://github.com/dongle-the-gadget/WinverUWP"
+}

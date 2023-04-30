@@ -1,0 +1,8 @@
+{
+    "name": "Onitor Browser",
+    "dev": "10Develops",
+    "version": "0.9.6",
+    "downloadurl": "https://github.com/10Develops/onitor/releases/download/0.9.6/OnitorBrowser_0.9.6.0_x86_x64_arm.appxbundle",
+    "description": "Free open source webbrowser for the uwp.",
+    "sourcecode": "https://github.com/10Develops/onitor"
+}

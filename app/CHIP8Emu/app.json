@@ -1,0 +1,8 @@
+{
+    "name": "CHIP-8 Emulator",
+    "dev": "JodyAndrews",
+    "version": "1.0.3",
+    "downloadurl": "https://www.dropbox.com/s/mt21tq5f2yqkyrs/UWPChip8_1.0.3.0_x64_arm.appxbundle?dl=1",
+    "description": "Chip-8 Emulator for UWP. Enhanced and compiled for W10M by Astifan",
+    "sourcecode": "https://github.com/basharast/Chip8Emulator"
+}

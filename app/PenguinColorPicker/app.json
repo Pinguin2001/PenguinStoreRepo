@@ -1,0 +1,8 @@
+{
+    "name": "PenguinColorPicker",
+    "dev": "Pinguin2001",
+    "version": "2.0.0",
+    "downloadurl": "https://github.com/Pinguin2001/PenguinColorPicker/releases/download/v2.0/ColorPicker_2.0.2.0_x86_x64_arm_arm64.appxbundle",
+    "description": "Wrapper for the color picker control.\n It allows you to select an color from the Color Spectrum and show its hex code or the other way around.",
+    "sourcecode": "https://github.com/Pinguin2001/PenguinColorPicker"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "TerminalUWP",
+    "dev": "Darren R. Starr",
+    "version": "1.0.5",
+    "downloadurl": "https://www.dropbox.com/s/w5x4v2zy81fkf1w/Terminal%20UWP_1.0.5.0_ARM.appx?dl=1",
+    "description": "SSH client",
+    "sourcecode": "https://github.com/basharast/TerminalUWP"
+}

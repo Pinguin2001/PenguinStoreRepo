@@ -1,0 +1,8 @@
+{
+    "name": "HiddenLaunch",
+    "dev": "Dustin",
+    "version": "1.0.2",
+    "downloadurl": "https://www.dropbox.com/s/472kz2syjovxdae/HiddenLaunch_1.0.2.0_ARM.appx?dl=1",
+    "description": "HiddenLaunch indexes application and enables launches them even if they are hidden",
+    "sourcecode": "https://github.com/jetspiking/WindowsPhone_HiddenLaunch"
+}

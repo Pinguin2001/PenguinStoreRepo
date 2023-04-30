@@ -1,0 +1,8 @@
+{
+    "name": "UWPPackageInstaler",
+    "dev": "colinkiama",
+    "version": "1.9.6",
+    "downloadurl": "https://github.com/colinkiama/UWP-Package-Installer/releases/download/1.9.6.0/UWPPackageInstaller_1.9.6.0_x86_x64_arm.zip",
+    "description": "An UWP installer for appx/appxbundle packages.",
+    "sourcecode": "https://github.com/colinkiama/UWP-Package-Installer"
+}

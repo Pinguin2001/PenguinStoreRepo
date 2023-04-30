@@ -1,0 +1,8 @@
+{
+    "name": "TwitterPWA",
+    "dev": "Pedro1234-code",
+    "version": "8.4.1",
+    "downloadurl": "https://www.dropbox.com/s/nem4eqrq0pa5pl4/Twitter_8.4.1.0_ARM_Debug.appx?dl=1",
+    "description": "Twitter app revival for Windows 10 Mobile - based on WebView XAML control with custom user agent to make again it run on Windows 10 Mobile.",
+    "sourcecode": "https://github.com/Pedro1234-code/twitterPWA"
+}

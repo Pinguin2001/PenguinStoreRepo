@@ -1,5 +1,14 @@
 [
-{"app":"CopyToClipboard","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/CopyToClipboard/appicon.png"},
-{"app":"TimeMe Tile","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/TimeMeTile/appicon.png"},
-{"app":"ZellaSoftWifiConnect","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/ZellaSoftWifiConnect/appicon.png"}
+    {
+        "app": "CopyToClipboard",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/CopyToClipboard/appicon.png"
+    },
+    {
+        "app": "TimeMe Tile",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/TimeMeTile/appicon.png"
+    },
+    {
+        "app": "ZellaSoftWifiConnect",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/ZellaSoftWifiConnect/appicon.png"
+    }
 ]

@@ -1,3 +1,6 @@
 [
-    {"app":"PicsArt","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/PicsArt/appicon.png"}
-    ]
+    {
+        "app": "PicsArt",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/PicsArt/appicon.png"
+    }
+]

@@ -1,4 +1,10 @@
 [
-{"app":"Boyds Maps", "icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/BoydsMaps/appicon.png"},
-{"app":"OpenStreetMap","icon":"https://pinguin2001.github.io/PenguinStoreRepo/app/OpenStreetMap/appicon.png"}
+    {
+        "app": "Boyds Maps",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/BoydsMaps/appicon.png"
+    },
+    {
+        "app": "OpenStreetMap",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/OpenStreetMap/appicon.png"
+    }
 ]

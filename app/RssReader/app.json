@@ -1,0 +1,8 @@
+{
+    "name": "RssReader",
+    "dev": "Microsoft",
+    "version": "1.0.0",
+    "downloadurl": "https://www.dropbox.com/s/0vq9zfzo1ja2g2j/RssReader_1.0.0.0_arm.appxbundle?dl=1",
+    "description": "RSS Reader sample from Microsoft compiled for arm32",
+    "sourcecode": "https://github.com/microsoft/Windows-appsample-rssreader"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "TimeMe Tile",
+    "dev": "Arnold Vink",
+    "version": "3.8.2",
+    "downloadurl": "https://www.dropbox.com/s/5g9yyf35zupm2rm/TimeMeTile_3.8.2.0_arm.Appx?dl=1",
+    "description": "TimeMe is a Windows live tile application which shows the current time, date, weather and optionally your current battery level all in one live tile.",
+    "sourcecode": "https://github.com/dumbie/TimeMe"
+}

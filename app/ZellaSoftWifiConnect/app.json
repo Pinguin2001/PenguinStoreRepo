@@ -1,0 +1,7 @@
+{
+    "name": "Wifi Connect",
+    "dev": "ZellaStore",
+    "version": "1.0.3",
+    "downloadurl": "https://www.dropbox.com/s/c8xzrcchzit0lgh/ZellaSoft.WiFi.Connect_1.0.3.0_arm.appxbundle?dl=1",
+    "description": "This is an extension that allows you to connect to WiFi networks by the wifi: protocol. Scan a QR code or tap an NFC tag to connect to a WiFi network."
+}

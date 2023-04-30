@@ -1,0 +1,8 @@
+{
+    "name": "PPSSPP-UWP ARM",
+    "dev": "Bashar Astifan",
+    "version": "1.14.15",
+    "downloadurl": "https://github.com/basharast/PPSSPP-UWP-ARM/releases/download/1.14.15/PPSSPP_UWP_1.14.15.0_ARM_Gold.zip",
+    "description": "PSP emulator with full UWP (ARM) support",
+    "sourcecode": "https://github.com/basharast/PPSSPP-UWP-ARM"
+}

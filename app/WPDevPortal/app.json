@@ -1,0 +1,8 @@
+{
+    "name": "WPDevPortal",
+    "dev": "Empyreal96",
+    "version": "1.0.18",
+    "downloadurl": "https://www.dropbox.com/s/psderffpljpyfqm/WPDevPortal_1.0.18.0_x86_x64_arm.appxbundle?dl=1",
+    "description": "Small tool for easily using Windows Device Portal on Windows 10 Mobile 15063+",
+    "sourcecode": "https://github.com/Empyreal96/WP_Device_Portal"
+}

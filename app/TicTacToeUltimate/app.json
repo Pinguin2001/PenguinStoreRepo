@@ -1,0 +1,8 @@
+{
+    "name": "TicTacToe Ultimate",
+    "dev": "Dustin",
+    "version": "1.0.2",
+    "downloadurl": "https://github.com/jetspiking/WindowsPhone_TicTacToe/files/5425426/TicTacToe_AppxBundle.zip",
+    "description": "Enjoy Tic Tac Toe with up to four players and a variable game size.",
+    "sourcecode": "https://github.com/jetspiking/WindowsPhone_TicTacToe"
+}
