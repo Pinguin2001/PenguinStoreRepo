@@ -1,5 +1,9 @@
 [
     {
+        "app": "Baconit",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/Baconit/appicon.png"
+    },
+    {
         "app": "ImgurUWP",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/ImgurUWP/appicon.png"
     },
