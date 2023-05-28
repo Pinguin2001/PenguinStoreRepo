@@ -4,5 +4,6 @@
     "version": "4.9.2",
     "downloadurl": "https://github.com/Pinguin2001/Baconit/releases/download/v4.9.2.0/Baconit_4.9.2.0_arm.appxbundle",
     "description": "Baconit is a free, beautiful, open source, reddit client rewritten from the ground up for all Windows 10 devices.\nBaconit is the highest rated reddit client on Windows and is known for its power, design, functionality, and quality.",
+    "changelog": "- Update all nuget packages\n- Upgrade all SDKs",
     "sourcecode": "https://github.com/Pinguin2001/Baconit"
 }

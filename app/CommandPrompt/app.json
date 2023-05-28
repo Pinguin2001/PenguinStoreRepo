@@ -4,5 +4,6 @@
     "version": "0.5.0-beta",
     "downloadurl": "https://github.com/Empyreal96/mobile-cmd/releases/download/v0.5/MobileTerminal_0.5.0.0_arm.appxbundle",
     "description": "An easy to use Terminal app for W10M with Tabs, command history and more.",
+    "changelog": "- lang: Update to C#11\n- fix: Remote connections not working\n- feat: Close terminal button in titlebar\n- feat: Command history\n- feat: Run command via uri (e.g. cmd:echo Hello!)",
     "sourcecode": "https://github.com/empyreal96/mobile-cmd"
 }
