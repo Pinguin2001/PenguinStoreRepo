@@ -14,5 +14,9 @@
     {
         "app": "QuickSearch",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/QuickSearch/appicon.png"
+    },
+    {
+        "app": "TranslatorUWP",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/TranslatorUWP/appicon.png"
     }
 ]
