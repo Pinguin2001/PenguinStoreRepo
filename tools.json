@@ -24,6 +24,10 @@
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/IUWP/appicon.png"
     },
     {
+        "app": "LampControl",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/LampControl/appicon.png"
+    },
+    {
         "app": "NotepadX",
         "icon": "https://store-images.s-microsoft.com/image/apps.23977.13510798886759074.97974be9-6edb-42ef-9a7d-df723c456254.feb2bec0-621f-4638-840f-cfb7c51f2a06"
     },

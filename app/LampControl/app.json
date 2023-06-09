@@ -1,0 +1,8 @@
+{
+    "name": "LampControl",
+    "dev": "Pinguin2001",
+    "version": "1.0.0",
+    "downloadurl": "https://github.com/Pinguin2001/LampControl/releases/download/v1.0.0/LampControl_1.0.0.0_x86_x64_arm_arm64.appxbundle",
+    "description": "A UWP application using the Lamp API to control the flashlight on a Windows device\nPlease check device compatibility on the GitHub page",
+    "sourcecode": "https://github.com/Pinguin2001/LampControl"
+}
