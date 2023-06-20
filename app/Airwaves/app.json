@@ -1,0 +1,8 @@
+{
+    "name": "Airwaves",
+    "dev": "Tiger Wang",
+    "version": "1.2.8",
+    "downloadurl": "https://www.dropbox.com/s/btp4p4i60d4p62v/Airwaves_1.2.8.0.AppxBundle",
+    "description": "Listen to frequency modulated radio transmissions using the built-in FM tuner in your device",
+    "changelog": "+ Added signal strength indicator to both Mobile and Windows on ARM64 versions"
+}
