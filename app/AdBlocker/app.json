@@ -1,0 +1,7 @@
+{
+    "name": "Ad blocker",
+    "dev": "sensboston",
+    "version": "1.1.0",
+    "downloadurl": "https://www.dropbox.com/s/6sf7t3c69k92vu8/AdBlocker_1.1.0.0_ARM.appx",
+    "description": "Ad blocker UWP is a system wide ad blocker for Windows 10 Mobile.\nNotice:\nBefore enabling Adblock, you need to be aware of these things\n1. After enabling Adblock, your wifi connection will be slow to connect, will take more time to get internet access\n2. If you want to get rid of the ad blocker, first don't uninstall the app,instead\n1) Revert the host files in the Adblocker app.\n2) Then you may restart the phone, it will be removed\n\n3. Don't uninstall the app without resorting host files, if you do that, you will need to reflash to remove ad blocker hosts, hard reset cannot revert them"
+}

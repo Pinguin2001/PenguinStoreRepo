@@ -1,5 +1,9 @@
 [
     {
+        "app": "AdBlocker",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/AdBlocker/appicon.png"
+    },
+    {
         "app": "CMD Injector",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/CMDInjector/appicon.png"
     },
