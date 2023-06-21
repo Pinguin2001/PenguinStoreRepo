@@ -1,0 +1,9 @@
+{
+    "name": "Reboot",
+    "dev": "winphouser",
+    "version": "1.3.0",
+    "downloadurl": "https://www.dropbox.com/s/yyl4c37kfwkb88n/Reboot_1.3.0.0_ARM.appx?dl=1",
+    "description": "Allows you to reboot your W10M-based device quickly",
+    "changelog": "- Now rebooting using NRPC from Interop Tools",
+    "sourcecode": "https://forum.xda-developers.com/t/appx-v1-3-reboot-app.3365582/"
+}

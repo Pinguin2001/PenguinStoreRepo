@@ -56,6 +56,10 @@
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/PenguinToDo/appicon.png"
     },
     {
+        "app": "Reboot",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/Reboot/appicon.png"
+    },
+    {
         "app": "RunBox",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/RunBox/appicon.png"
     },
