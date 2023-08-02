@@ -1,9 +1,9 @@
 {
     "name": "TranslatorUWP",
     "dev": "Pinguin2001",
-    "version": "2.0.14",
-    "downloadurl": "https://github.com/Pinguin2001/Translator/releases/download/v2.0.14/Translator_2.0.14.0_x86_x64_arm_arm64.appxbundle",
+    "version": "3.0.0",
+    "downloadurl": "https://github.com/Pinguin2001/Translator/releases/download/v3.0.0/Translator_3.0.0.0_x86_x64_arm_arm64.appxbundle",
     "description": "A UWP client for Google Translate",
-    "changelog": "- (build)deps: bump Microsoft.UI.Xaml from 2.5.0 to 2.7.3\n- feat: ARM64 support\n- feat: Support for large screen devices/dual screen devices",
+    "changelog": "- backend: Migrate to lingva translate\n- feat: Add titlebar for desktop devices\n- feat: Import text from file",
     "sourcecode": "https://github.com/Pinguin2001/Translator"
 }
