@@ -1,9 +1,9 @@
 {
     "name": "TranslatorUWP",
     "dev": "Pinguin2001",
-    "version": "3.0.0",
-    "downloadurl": "https://github.com/Pinguin2001/Translator/releases/download/v3.0.0/Translator_3.0.0.0_x86_x64_arm_arm64.appxbundle",
-    "description": "A UWP client for Google Translate",
-    "changelog": "- backend: Migrate to lingva translate\n- feat: Add titlebar for desktop devices\n- feat: Import text from file",
+    "version": "3.1.0",
+    "downloadurl": "https://github.com/Pinguin2001/Translator/releases/download/v3.1.0/Translator_3.1.0.0_x86_x64_arm_arm64.appxbundle",
+    "description": "A UWP client for Google Translate, using linva translate",
+    "changelog": "- appearance: New app icon\n- perf: Use faster language lists\n- perf: Make splash screen optional, this speeding up the startup speed",
     "sourcecode": "https://github.com/Pinguin2001/Translator"
 }
