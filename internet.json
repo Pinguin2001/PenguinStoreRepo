@@ -1,5 +1,9 @@
 [
     {
+        "app": "Amazon",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/Amazon/appicon.png"
+    },
+    {
         "app": "DuckDuckGo",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/DuckDuckGo/appicon.png"
     },
