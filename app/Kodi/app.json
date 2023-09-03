@@ -1,0 +1,9 @@
+{
+    "name": "KodiNexusARM",
+    "dev": "Bashar Astifan",
+    "version": "20.90.125",
+    "downloadurl": "https://www.dropbox.com/scl/fi/4zc3bxmcx58ci4vak56m1/Kodi.Nexus.20.90.125.0_ARM.appx?rlkey=44d8ir2hoi4fykz0b7srpsj2k&dl=1",
+    "description": "Kodi® media center is an awesome, free and open source media player.\nThis is a port to ARM32 Windows 10 Mobile by Bashar Astifan\n\nNotes:\nKodi developed by Team Kodi\nPorted to ARM-UWP by Bashar Astifan with many improvements\n\nNotes(Bios):\nSome emulators require BIOS to work,\nYou can done this in many ways\n1)\nBIOS files should be placed in:\nLocalState -> userdata -> addon_data -> {addon name} -> resources -> system\n\n2)\n- Or you can extract the addon\n- then add BIOS files in resources -> system\n- then recompress the addon \n- and install it",
+    "changelog": "- Enhanced UWP Storage layer\n-Added launch URI function to Python interpreter (Check games section) [Suggested by @danprice142]",
+    "sourcecode": "https://github.com/basharast/Kodi-UWP-ARM"
+}
