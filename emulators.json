@@ -8,6 +8,10 @@
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/DosBox/appicon.png"
     },
     {
+        "app": "DuckStation",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/DuckStation/appicon.png"
+    },
+    {
         "app": "Nesbox",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/Nesbox/appicon.png"
     },
