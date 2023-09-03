@@ -1,8 +1,8 @@
 {
     "name": "RetroArch ARM",
     "dev": "Libretro Team",
-    "version": "1.14.5",
-    "downloadurl": "https://github.com/basharast/RetroArch-ARM/releases/download/1.14.5/RetroArch.ARM.1.14.5.zip",
+    "version": "1.15.5",
+    "downloadurl": "https://github.com/basharast/RetroArch-ARM/releases/download/1.15.5/RetroArch.ARM.1.15.5.15035+.D3D.zip",
     "description": "This is a modded release by Bashar Astifan for Windows 10 Mobile or any other Windows 10 ARM32 device",
     "sourcecode": "https://github.com/basharast/RetroArch-ARM"
 }
