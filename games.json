@@ -1,5 +1,9 @@
 [
     {
+        "app": "2048",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/2048/appicon.png"
+    },
+    {
         "app": "TicTacToe Ultimate",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/TicTacToeUltimate/appicon.png"
     }
