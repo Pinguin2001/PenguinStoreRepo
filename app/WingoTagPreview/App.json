@@ -2,7 +2,7 @@
   "name": "WinGo Tag (Preview) - W10M",
   "dev": "AliNgame",
   "version": "0.7.500",
-  "downloadurl": "<urltoappx>",
+  "downloadurl": "https://github.com/NGame1/Winsta11/releases/download/Next0.7.500-Mobile/WinstaMobile_0.7.500.0_arm.appxbundle",
   "description": "The best unofficial Instagram client ever made for Windows 10 devices family including mobile.",
   "changelog": "Added share dialog, New login apis, Bugfixes, some minor changes and more.",
   "sourcecode": "https://github.com/NGame1/Winsta11/"
