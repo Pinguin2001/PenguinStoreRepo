@@ -26,5 +26,9 @@
     {
         "app": "UnigramMobile",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/UnigramMobile/appicon.png"
+    },
+    {
+        "app": "WingoTagPreview",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/WingoTagPreview/appicon.png"
     }
 ]
