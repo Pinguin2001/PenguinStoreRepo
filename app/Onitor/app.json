@@ -1,8 +1,8 @@
 {
     "name": "Onitor Browser",
-    "dev": "10Develops",
-    "version": "0.9.6",
-    "downloadurl": "https://github.com/10Develops/onitor/releases/download/0.9.6/OnitorBrowser_0.9.6.0_x86_x64_arm.appxbundle",
-    "description": "Free open source webbrowser for the uwp.",
-    "sourcecode": "https://github.com/10Develops/onitor"
+    "dev": "Empyreal96",
+    "version": "1.0.129",
+    "downloadurl": "https://www.dropbox.com/scl/fi/vsa4v8siwxfltv3phu5by/OnitorBrowser_1.0.129.0_arm.appxbundle?dl=1",
+    "description": "Free UWP web browser app. (Small modifications by me)",
+    "sourcecode": "https://github.com/Empyreal96/onitor"
 }
