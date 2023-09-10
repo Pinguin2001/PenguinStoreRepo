@@ -1,9 +1,9 @@
 {
     "name": "DuckStationARM",
     "dev": "Bashar Astifan",
-    "version": "1.0.3",
-    "downloadurl": "https://www.dropbox.com/scl/fi/jdddxqhv9fr8p8blvgszk/DuckStation-ARM-1.0.3.appxbundle?rlkey=enviblmuqt32allt559sv0sqt&dl=1",
+    "version": "1.0.5",
+    "downloadurl": "https://www.dropbox.com/scl/fi/s9ixuaaki8mvla7o6nugp/DuckStation-ARM-1.0.5.appxbundle?dl=1",
     "description": "Fast PlayStation 1 emulator for Windows ARM32 (UWP) with min 15035\nSupport GPUs with DirectX 11 Feature Level 10+ (Level 9.3 and build 14393 is not ready yet)\nDuckStation is PS1 emulator by Connor McLaughlin (stenzek)\nThis emulator is really good and fast even on old ARM devices like Windows Phone, all credits goes to stenzek",
-    "changelog": "- Addressed and fixed rotation crash issue\n- Improved the UI for Portrait/Vertical mode\n- Added option to force Landscape mode",
+    "changelog": "- Added new options to improve GamePad support\n- Added sensors support\n- More speed controls for better performance\n- Fixed issue caused system to hung while closing\n- Fixed Keyboard input bindings\n- Added more controller profiles (1,2,3 & 4)\n- Improved & fixed Resume feature\n- Improved old devices support (still under software render)",
     "sourcecode": "https://github.com/basharast/DuckStation-UWP-ARM"
 }
