@@ -4,8 +4,5 @@
     "version": "1.0.0",
     "downloadurl": "https://github.com/Pinguin2001/Repackaged-PenguinStore-Apps/releases/download/v1.0.0-2048/2048_1.0.0.0_arm.appxbundle",
     "description": "2048 for Windows 10 Mobile. All credits go to Gabriele Cirulli",
-    "sourcecode": "https://github.com/Pinguin2001/Repackaged-PenguinStore-Apps/tree/main/2048",
-    "screenshots": [
-        "https://pinguin2001.github.io/PenguinStoreRepo/app/2048/screenshot.jpg"
-    ]
+    "sourcecode": "https://github.com/Pinguin2001/Repackaged-PenguinStore-Apps/tree/main/2048"
 }
