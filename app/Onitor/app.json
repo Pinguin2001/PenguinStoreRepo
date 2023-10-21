@@ -4,5 +4,12 @@
     "version": "1.0.129",
     "downloadurl": "https://www.dropbox.com/scl/fi/vsa4v8siwxfltv3phu5by/OnitorBrowser_1.0.129.0_arm.appxbundle?dl=1",
     "description": "Free UWP web browser app. (Small modifications by me)",
-    "sourcecode": "https://github.com/Empyreal96/onitor"
+    "sourcecode": "https://github.com/Empyreal96/onitor",
+    "screenshots": [
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/Onitor/screenshot_0.jpg",
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/Onitor/screenshot_1.jpg",
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/Onitor/screenshot_2.jpg",
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/Onitor/screenshot_3.jpg"
+        
+    ]
 }
