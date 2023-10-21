@@ -3,5 +3,9 @@
     "dev": "Pinguin2001",
     "version": "3.0.0",
     "downloadurl": "https://www.dropbox.com/s/yfq6os9yrweqwmh/Quick%20Search_3.0.0.0_arm.appxbundle?dl=1",
-    "description": "Simple and fast web search app for Windows 10 Mobile"
+    "description": "Simple and fast web search app for Windows 10 Mobile",
+    "screenshots": [
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/QuickSearch/screenshot_0.jpg",
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/QuickSearch/screenshot_1.jpg"
+    ]
 }
