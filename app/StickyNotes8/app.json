@@ -1,0 +1,12 @@
+{
+    "name": "Sticky Notes 8",
+    "dev": "Marco Rinaldi",
+    "version": "10.4.3",
+    "downloadurl": "https://www.dropbox.com/scl/fi/fd4cthtbae5g37oau09qf/8251MarcoRinaldi.NoteTiles_10.4.3.0_arm__9rvmmrcs6zgr6.appx?dl=1",
+    "description": "With Sticky Notes 8 you can write a lot of notes and move them freely on the screen.\n\nThe snapped view and the OneDrive synchronization are very useful!\n\nYou can Pin on Start screen, Search the notes or create a new note from text Shared from other app, etc",
+    "changelog": "- OneDrive synchronization\n-Universal Windows 10 support",
+    "screenshots": [
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/StickyNotes8/screenshot_0.jpg",
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/StickyNotes8/screenshot_1.jpg"
+    ]
+}
