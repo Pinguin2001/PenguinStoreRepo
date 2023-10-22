@@ -1,0 +1,11 @@
+{
+    "name": "Kubic.",
+    "dev": "Pixel Envision Ltd.",
+    "version": "2.2.3",
+    "downloadurl": "https://www.dropbox.com/scl/fi/yx3mg9ppauaain1hs0r7p/kubic._2.2.0.0_ARM_Master.appx?dl=1",
+    "description": "Kubic is a beautifully designed and engaging puzzle game for Windows.\nWith its aesthetically pleasing visuals and intuitive gameplay, it offers a delightful challenge for puzzle enthusiasts.\nThe carefully crafted levels and soothing soundtrack create an immersive experience that keeps players hooked from start to finish.",
+    "changelog": "- Xbox Live Sign-On and Leaderboard added",
+    "screenshots": [
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/Kubic/screenshot.jpg"
+    ]
+}
