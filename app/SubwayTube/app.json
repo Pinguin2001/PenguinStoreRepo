@@ -1,0 +1,11 @@
+{
+    "name": "subwayTube",
+    "dev": "Max",
+    "version": "0.9.19",
+    "downloadurl": "https://www.dropbox.com/scl/fi/r70eax8ivlhe91fvvf7uj/subwayTube_0.9.19.0.appxbundle?rlkey=tyl4a661kmeiq0wrm6a04jdjx&st=qbsp2qc7&dl=1",
+    "description": "subwayTube0.9.19 - a win10m YouTube player",
+    "changelog": "Todays release is quite small. I added a few checks to prevent app crashes and finally switched the font to Segoe UI (which is should have had from the start).\nEarlier today, the app crashed when opening the settings. This was due to one of the new servers not having a value for the uptime, so the read failed and crashed the app when opening the settings menu. Should be fixed now.",
+    "screenshots": [
+        "https://pinguin2001.github.io/PenguinStoreRepo/app/SubwayTube/screenshot_0.jpg"
+    ]
+}
