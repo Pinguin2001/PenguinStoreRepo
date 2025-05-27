@@ -12,6 +12,10 @@
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/eBay/appicon.png"
     },
     {
+        "app": "LinesBrowser",
+        "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/LBrowser/appicon.png"
+    },
+    {
         "app": "Onitor",
         "icon": "https://pinguin2001.github.io/PenguinStoreRepo/app/Onitor/appicon.png"
     },
