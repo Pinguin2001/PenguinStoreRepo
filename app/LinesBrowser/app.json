@@ -9,6 +9,6 @@
         "https://github.com/user-attachments/assets/d101de52-1b80-4a64-ac14-66e9900504d1",
         "https://github.com/user-attachments/assets/ab38fbaa-17e8-435c-9fd0-8e746684dca9",
         "https://github.com/user-attachments/assets/04b2c772-3ae7-4c22-bc1e-9e78a1c5133b"
-    ]
+    ],
     "changelog": "- Recents Feature – The browser can now keep track of recently opened tabs. You can disable this feature, but a small amount of memory will still be used to properly display tab thumbnails\n- View Certificate – You can now view details of the current site’s certificate and encryption type. Only the site’s certificate is shown – not the full certificate chain\n- Text input is now more convenient!\n\nBug fixes:\n- Fixed an issue with incorrect navigation within the app\n- Fixed a problem where characters were sometimes entered incorrectly"
 }
